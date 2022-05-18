@@ -1,7 +1,12 @@
-#rhino {
+.top h2 {
     color: blue;
 }
 
-#zebra {
-    color: blue;
+#bestHouse {
+    color: gold;
 }
+
+h2.likesToQuack.fight1Or100 {
+    color: lime !important;
+}
+
