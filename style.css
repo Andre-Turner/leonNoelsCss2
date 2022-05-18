@@ -7,10 +7,17 @@ a {
 section {
     height: 200px;
     border: 10px solid blue;
-    background-color: orange;
+    background: rgb(245, 191, 90);
 }
 
 aside {
     height: 300px;
-    
+    border: 2px solid red;
+    background: teal;
+}
+
+aside p {
+    color: white;
+    font-size: 18px;
+    text-decoration: underline red;
 }
