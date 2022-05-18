@@ -1,4 +1,18 @@
-section h2 {
+section > h2 {
     color: yellow;
+}
+
+aside p a {
+    color: red;
+    font-size: 20px;
+}
+
+article h1 + h2 {
+    color: purple;
+}
+
+article h2 + h2{
+    font-size: 30px;
+    color: blue;
 }
 
