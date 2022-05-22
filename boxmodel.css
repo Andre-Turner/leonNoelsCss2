@@ -5,15 +5,21 @@ h1 {
     color: skyblue;
 }
 
-h1 + h2 {
-    padding: 15px 0 15px 0;
-    border-top: 10px dashed green;
-    border-bottom: 10px dashed green;
-    background-color: orange;
+h2 {
+    padding: 15px 0;
+    border-top: 3px dashed darkgreen;
+    border-bottom: 3px dashed darkgreen;
+    background: orange;
 }
 
 section {
     border: 10px solid blue;
     height: 300px;
-    margin: 400px 0 0 0;
+    margin-top: 401px;
+}
+
+span {
+    border: 1px solid yellow;
+    padding: 10px;
+    margin: 10px;
 }
